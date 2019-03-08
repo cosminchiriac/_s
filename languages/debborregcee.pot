@@ -1,8 +1,8 @@
-# Copyright (C) 2017 Automattic
+# Copyright (C) 2017 Pixel Media SRL
 # This file is distributed under the GNU General Public License v2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: _s 1.0.0\n"
+"Project-Id-Version: debborregcee 1.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
 "POT-Creation-Date: 2016-12-23 16:00+0100\n"
 "MIME-Version: 1.0\n"
@@ -152,7 +152,7 @@ msgid ""
 msgstr ""
 
 #. Author of the plugin/theme
-msgid "Automattic"
+msgid "Pixel Media SRL"
 msgstr ""
 
 #. Author URI of the plugin/theme
