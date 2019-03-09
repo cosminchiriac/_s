@@ -1,0 +1,20 @@
+{
+	"name": "debborregcee",
+	"version": "1.0.0",
+	"description": "Set up grunt for debborregcee, for the sass compiler",
+	"author": "Cosmin Chiriac",
+	"license": "PUBLIC",
+	"dependencies": {
+		"time-grunt": "*"
+	},
+	"devDependencies": {
+		"grunt": "*",
+		"grunt-concurrent": "*",
+		"grunt-contrib-concat": "*",
+		"grunt-contrib-watch": "*",
+		"grunt-notify": "*",
+		"grunt-sass": "^2.1.0",
+		"jit-grunt": "^0.10.0",
+		"node-sass": "*"
+	}
+}
